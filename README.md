@@ -30,4 +30,4 @@ Suggestion for future analysis:
 * Add the costs (the actual repair cost) and revenues (how much we charge per mile or per minute) to the analysis. 
 * Age (birth year) and male distribution. Since our major clientd are males. We can dig into the information a little bit deeper.
 
-[link to dashboard]( NYC Bike Share Challenge | Tableau Public)
+[link to dashboard](https://public.tableau.com/app/profile/shuchi.hsu/viz/NYCBikeShareChallenge/Story3))
